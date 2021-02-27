@@ -3,6 +3,18 @@ venv/
 __pycache__/
 test.db
 
+# environments
+.venv
+.env
+env/
+venv/
+ENV/
+
+# node dependency
+build
+node_modules
+npm-debug.log
+
 # OS generated files #
 ######################
 .DS_Store
